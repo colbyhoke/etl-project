@@ -16,7 +16,7 @@
 
 ## Data sources
 * BEA.gov:
-  *https://www.bea.gov/system/files/2019-11/lapi1119msa.xlsx
+  * https://www.bea.gov/system/files/2019-11/lapi1119msa.xlsx
 * Zillow:
   * https://www.zillow.com/research/data/
     * http://files.zillowstatic.com/research/public_v2/zori/Metro_ZORI_AllHomesPlusMultifamily_Smoothed.csv
