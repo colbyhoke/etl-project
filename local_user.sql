@@ -1,0 +1,1 @@
+CREATE USER local_user with PASSWORD 'password123';
