@@ -7,7 +7,7 @@
 * Combining data sets from Zillow and BEA.gov to create a database:
   * Housing sale price (2018 averages)
   * Housing rental price (2018 averages)
-  *Household income (2018)
+  * Household income (2018)
 
 ## Goals
 * Extract data from disparate sources
